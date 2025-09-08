@@ -3,9 +3,9 @@
 I'm a passionate **JavaScript Developer** with a focus on building dynamic, scalable, and user-friendly web applications. I thrive on turning ideas into reality through clean code, modern frameworks, and a problem-solving mindset. Based in Madagascar, I enjoy crafting solutions that make a meaningful impact.
 
 ## 🚀 About Me
-- 💻 **Specialty**: Full-stack JavaScript development with expertise in React, Node.js, and Express.
+- 💻 **Specialty**: Full-stack JavaScript development with expertise in React, Vue, Node.js, and Express.
 - 🛠 **Skills**:
-  - **Frontend**: React, TypeScript, HTML, CSS, Tailwind CSS, JavaScript (ES6+)
+  - **Frontend**: React, Vue, TypeScript, HTML, CSS, Tailwind CSS, JavaScript (ES6+)
   - **Backend**: Node.js, Express, Prisma, REST APIs
   - **Tools & Platforms**: Git, Docker, Webpack, Vite, PostgreSQL, MongoDB
   - **Other**: Agile methodologies, unit testing (Jest), CI/CD pipelines
