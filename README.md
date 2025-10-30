@@ -18,10 +18,10 @@ Here are some projects I'm proud of:
 - **[Money Tracker](https://github.com/noelardau/money-tracker)**: A full-stack expense tracking app built with React, Node.js, Express, and Prisma, featuring a responsive UI and RESTful API for managing wallets and transactions.
 - **[Portfolio Website](https://github.com/noelardau/portfolio)**: A personal portfolio showcasing my work, built with React and Tailwind CSS, optimized for performance and accessibility.
 - *More projects in my repositories below!*
--->
+
 ## 📊 GitHub Stats
 ![Noel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noelardau&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noelardau&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noelardau&layout=compact&theme=radical)-->
 
 ## 🤝 Let's Collaborate
 I'm always excited to collaborate on open-source projects, contribute to innovative ideas, or discuss JavaScript and web development. Feel free to explore my repositories, open an issue, or reach out for a chat!
